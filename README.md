@@ -13,7 +13,7 @@
 
   <h2>Sixpon'u Tanıyalım</h2>
 
-  <p>Merhaba! Benim adım Özgür Özügürler. Sizlere Udemy kurslarımdan ve diğer platformlardaki içeriklerimden bahsetmek istiyorum:</p>
+  <p>Merhaba! Benim adım Özgür . Sizlere Udemy kurslarımdan ve diğer platformlardaki içeriklerimden bahsetmek istiyorum:</p>
 
   <h3>Udemy Kursları</h3>
 
