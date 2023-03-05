@@ -18,7 +18,7 @@
   <h3>Udemy Kursları</h3>
 
   <ul>
-    <li>Etik Hacker Olmak İsteyenlere Özel Ağ Eğitimi#1 <a href="https://bit.ly/udemynetwork/">Bağlantı</a></li>
+    <li>Etik Hacker Olmak İsteyenlere Özel Ağ Eğitimi#1 <a href="https://bit.ly/udemynetwork">Bağlantı</a></li>
     <li>Etik Hacker Olmak İsteyenlere Özel Kali Linux Eğitimi#1 <a href="https://bit.ly/udemykali">Bağlantı</a></li>
   </ul>
 
@@ -44,8 +44,8 @@
 
   <div class="faq-item">
     <i class="fas fa-question-circle"></i>
-    <h3>Soru 1 Sosyal medya hesabı çalabilirmisin ?</h3>
-    <p>Hayır illegal iş yapmıyoruz </p>
+    <h3>Soru 1 Sosyal medya hesabı çalabilir misin / kurtarabilir misin?</h3>
+    <p>Hayır</p>
   </div>
 
   <div class="faq-item">
@@ -54,7 +54,7 @@
   <h3>Soru 2 Siber güvenliğe nerden başlamalıyım ?</h3>
   <p>Cevap 2.Yayınladığım udemy kurslarımdan başlayabilirsiniz </p>
   <ul>
-    <li>Etik Hacker Olmak İsteyenlere Özel Ağ Eğitimi#1 <a href="https://bit.ly/udemynetwork/">Bağlantı</a></li>
+    <li>Etik Hacker Olmak İsteyenlere Özel Ağ Eğitimi#1 <a href="https://bit.ly/udemynetwork">Bağlantı</a></li>
     <li>Etik Hacker Olmak İsteyenlere Özel Kali Linux Eğitimi#1 <a href="https://bit.ly/udemykali">Bağlantı</a></li>
   </ul>
 
@@ -62,13 +62,13 @@
 </div>
 <div class="faq-item">
   <i class="fas fa-question-circle"></i>
-  <h3>Soru 3? Yeni kurs ne zaman gelir ?  Kursun adı ne  ? vb  </h3>
-  <p>Cevap 3.</p>
+  <h3>Soru 3? Yeni kurs ne zaman gelir? </h3>
+  <p>Cevap 3 Hazırladığımda. Discord üzerinden duyuruları takip edebilirsiniz.</p>
 </div>
 <div class="faq-item">
   <i class="fas fa-question-circle"></i>
   <h3>Soru 4? Siber güvenlik alanında temelim var fakat ctfe nerden başlamam gerektiğini bilmiyorum herhangi bir liste yada yol gösteren döküman varmı </h3>
-  <p>Cevap 4 Ctf e başlamak için öncelikle bi kaç platform önerebilirim ve bu platformlar artırılabilir Tryhackme favorim ctfe yeni başlayan herkes için uygun bir platform 
+  <p>Cevap 4 - Ctf e başlamak için öncelikle bi kaç platform önerebilirim ve bu platformlar artırılabilir Tryhackme favorim ctfe yeni başlayan herkes için uygun bir platform 
 <ul>
   <li><a href="https://tryhackme.com/paths">Tryhackme</a></li>
   <li><a href="https://www.hackthebox.com/">Hackthebox</a></li>
@@ -109,8 +109,8 @@
 
    <div class="faq-item">
   <i class="fas fa-question-circle"></i>
-  <h3>Soru 5? Kali linuxu nasıl kurabilirim . kurulumda hata alıyorum ,vmware mi virtualboxmu   </h3>
-  <p>Cevap 4. Kali linux hakkındaki tüm soruları Kali linux eğitim videolarımdan öğrenebilirsin  </p>
+  <h3>Soru 5 Sorularım var, nasıl çözebilirim? </h3>
+  <p>Cevap 4. Discord sunucumuza katılıp soru-cevap kanalına sorabilirsin. Soru sormadan önce araştırdığından emin ol. </p>
 
   <ul>
     <li>Kali Linux Eğitimi <a href="https://www.youtube.com/playlist?list=PL5e6atpW70feftvDLmqvD-30bozFSVFJ4">Bağlantı</a></li>
