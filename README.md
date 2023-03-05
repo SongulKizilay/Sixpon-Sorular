@@ -110,8 +110,12 @@
    <div class="faq-item">
   <i class="fas fa-question-circle"></i>
   <h3>Soru 5? Kali linuxu nasıl kurabilirim . kurulumda hata alıyorum ,vmware mi virtualboxmu   </h3>
-  <p>Cevap 4.</p>
-</div>
+  <p>Cevap 4. Kali linux hakkındaki tüm soruları Kali linux eğitim videolarımdan öğrenebilirsin  </p>
+
+  <ul>
+    <li>Kali Linux Eğitimi <a href="https://www.youtube.com/playlist?list=PL5e6atpW70feftvDLmqvD-30bozFSVFJ4">Bağlantı</a></li>
+  </ul>  
+  </div>
 
    <div class="faq-item">
   <i class="fas fa-question-circle"></i>
