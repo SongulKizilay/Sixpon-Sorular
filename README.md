@@ -31,7 +31,7 @@
   <h3>Twitch Kanalı</h3>
 
   <ul>
-    <li>Sixpon <a href="https://www.twitch.tv/sixpon">Bağlantı</a></li>
+    <li>Sixpon <a href="https://www.twitch.tv/sixpon">Bağlantı</a></li>a
   </ul>
 
   <h3>Discord Sunucusu</h3>
